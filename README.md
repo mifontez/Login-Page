@@ -1,8 +1,8 @@
-# My project
+# login-page
 
 Login page with HTML + CSS
 
-# Open the site
+# Open
 
 Available here ---> (https://mifontez.github.io/Login-Page/).
 
